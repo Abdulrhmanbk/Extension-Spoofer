@@ -5,7 +5,7 @@
  Extension-Spoofer is ONLY intended to be used on your own pentesting labs, or with explicit consent from the owner of the property being tested.** 
  
  ## 📷 Screenshot:
-![Screenshot](Screenshot.png)
+![Screenshot](1.png)
 
 ## 📃 License
 Extension-Spoofer is distributed under the [MIT License](LICENSE).
