@@ -4,9 +4,6 @@
  By using Extension-Spoofer or any files included, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again Extension-Spoofer files included are for EDUCATION and/or RESEARCH purposes ONLY.
  Extension-Spoofer is ONLY intended to be used on your own pentesting labs, or with explicit consent from the owner of the property being tested.** 
  
- [![GitHub](https://img.shields.io/github/license/kadzicuh/Extension-Spoofer)](LICENSE)
- [![Build Status](https://dev.azure.com/kadzicuh/Extension-Spoofer/_apis/build/status/kadzicuh.Extension-Spoofer?branchName=main)](https://dev.azure.com/kadzicuh/Extension-Spoofer/_build/latest?definitionId=8&branchName=main)
- 
  ## 📷 Screenshot:
 ![Screenshot](Screenshot.png)
 
